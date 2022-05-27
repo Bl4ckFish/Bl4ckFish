@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Bl4ckFish
-- 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on Analysis and Backend projects
-- 📫 How to reach me check out my personal blog!!
+Hi, I’m Aldo Iniguez a Photonics Engineer
+I’m interested in Data analysis and currently learning Cybersecurity
+I’m looking to collaborate on Analysis and Photnics Projects.
+Please check out my personal blog!!
 
 <!---
 Bl4ckFish/Bl4ckFish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
