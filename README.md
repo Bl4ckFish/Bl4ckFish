@@ -1,6 +1,6 @@
 - Hi, I’m Aldo Iniguez a Photonics Engineer
 - I’m interested in Data analysis and currently learning Cybersecurity
-- I’m looking to collaborate on Analysis and Photnics Projects.
+- I’m looking to collaborate on Analysis and Cybersecurity Projects.
 - Please check out my personal blog!!
 
 <!---
